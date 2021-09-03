@@ -21,4 +21,4 @@ In addition to alignment, our approach has led us to extend the existing vocabul
 - The [vocabulary_of_parts](https://github.com/LuanaBulla/Controlled-Vocabularies-for-Cultural-Heritage/blob/main/vocabulary_of_parts.xlsx) represents a new controlled vocabulary proposal. It is composed of 485 terms, in a flat structure without hierarchies, referring to parts of cultural heritage extracted by ArCo Knowledge Graph.
 
 ### License
-This dataset is licensed under the [Creative Commons by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The data of ArCo, the knowledge graph of the Italian cultural heritage, were extracted through SPARQL Endpoint. 
+The data used for this project are licensed under the [Creative Commons by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The data of ArCo, the knowledge graph of the Italian cultural heritage, were extracted through SPARQL Endpoint. 
